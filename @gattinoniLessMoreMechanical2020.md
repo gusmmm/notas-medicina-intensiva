@@ -1,0 +1,51 @@
+- Gattinoni L, Quintel M, Marini JJ. "Less is More" in mechanical ventilation.
+Intensive Care Med. 2020 Apr;46(4):780-782. doi: 10.1007/s00134-020-05981-z.
+Epub 2020 Mar 11. PMID: 32162029; PMCID: PMC7103002.
+	- https://pubmed.ncbi.nlm.nih.gov/32162029/
+- o artigo discute a evolução progressiva da atitude
+	- de se um é bom, dois é melhor, três é muito melhor
+	- para "more-to-less", ou seja, passar de tratar usando valores  supra-normais para os mínimos necessários para permitir que o doente sobreviva e recupere com o mínimo de efeitos nocivos necessários
+- apresenta uma figura com a evolução ao longo dos anos em diferentes campos
+	- nutrição
+	- corticosteróides
+	- hemodinâmica
+	- volume corrente
+	- PEEP
+	- ![[Pasted image.png]]
+- [[inspired oxygen fraction FiO2]]
+	- com o aparecimento do [[ARDS]] nos 1970s o obectivo era
+		- melhorar a [[oxygen delivery]]
+	- o risco era a toxicidade pulmonar do oxigenio
+	- o valor de FiO2 considerado de risco era 60%
+- [[tidal volume]]
+	- nos 1970s ao tratar ARDS usava-se 12-15 ml/kg de peso observado de TV
+		- para manter a PaCO2
+		- para melhorar a oxigenação
+		- para prevenir [[atelectasis]]
+	- causava [[barotrauma]]
+	- "lung rest" usando remoção extracoporal de CO2
+	- "gentler lung ventilation"
+		- melhores resultados no ARMA trial [[@VentilationLowerTidal2000]] da [[ARDS network]]
+			- 6 vs 12 ml/kg de TV de PBW
+- [[PEEP]]
+	- quais os problemas de PEEP muito elevada?
+		- para manter oxigenação adequada...
+	- PEEP de 6 cm H2O para prevenir volutrauma
+		- até 15 cmH2O para prevenir atelectrauma
+			- parece que têm os mesmo resultado final em ARDS
+	- PEEP mais alta que 15 leva a volutrauma e compromisso hemodinamico com piores resultados?
+- [[respiratory rate]]
+	- high-frequency jet ventilation
+		- foi abandonada por falta de resultados
+	- [[HFOV]] com [[mean airway pressure]] que mantêm o volume pulmonar perto da [[total lung capacity]] - [[open lung]] protection? com TV de poucos mL
+		- não há resultados que comprovem
+	- qual o papel do RR a gerar [[VILI]]?
+- #QUESTIONS
+	- how much lesser-is-better?
+		- nutrição 25 KCal/kg/dia
+		- corticosteróides 200 mg/d de [[hydrocortison]]
+		- hemodinâmica [[cardiac index CI]] > 2.4 L/min/m2
+		- [[tidal volume]] 6 mL/kg PBW
+		- [[PEEP]] < 16 cmH2O
+	- as intervenções agressivas estão justificadas na fase de ressuscitação e estabilização?
+		- quando e como?

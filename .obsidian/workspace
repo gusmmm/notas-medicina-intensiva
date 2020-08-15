@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "2ae82a100423dba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff90d99df3f4c88",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@gattinoniLessMoreMechanical2020.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e505d36bfd188df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e895df2eb1a52dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d85dd0a5a76488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "689685c20c105c32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ce286bb53a8d45e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ca98c9c6a686187",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0bd0ea744b3f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de9db3a99619baa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "00cfbda8eb13d193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "@gattinoniLessMoreMechanical2020.md",
+    "hydrocortison.md",
+    "@VentilationLowerTidal2000.md",
+    "studies ARDS network.md",
+    "ARMA trial.md"
+  ]
+}
