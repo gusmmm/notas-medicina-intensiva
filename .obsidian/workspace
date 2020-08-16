@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff90d99df3f4c88",
+        "id": "204ff498e1f12a2d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "@gattinoniLessMoreMechanical2020.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,9 +90,9 @@
   },
   "lastOpenFiles": [
     "@gattinoniLessMoreMechanical2020.md",
-    "hydrocortison.md",
+    "PEEP.md",
     "@VentilationLowerTidal2000.md",
-    "studies ARDS network.md",
-    "ARMA trial.md"
+    "inspired oxygen fraction FiO2.md",
+    "studies ARDS network.md"
   ]
 }
