@@ -4,16 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "204ff498e1f12a2d",
+        "id": "45374f8cef66fd0b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@gattinoniLessMoreMechanical2020.md",
-            "mode": "source"
+            "file": "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
+            "mode": "preview"
           }
         }
+      },
+      {
+        "id": "c9227fe3e94c6585",
+        "type": "split",
+        "children": [
+          {
+            "id": "256cf5ee2bd33639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "casos clinicos.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ca36c488f0e4a98a",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "amoxicillin clavulanate.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ca98c9c6a686187",
@@ -69,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "amoxicillin clavulanate.md"
+              }
             }
           },
           {
@@ -80,19 +112,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "@gattinoniLessMoreMechanical2020.md",
-    "PEEP.md",
-    "@VentilationLowerTidal2000.md",
-    "inspired oxygen fraction FiO2.md",
-    "studies ARDS network.md"
+    "amoxicillin clavulanate.md",
+    "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
+    "casos clinicos.md",
+    "hypercalcemia in malignancy.md",
+    "hypercalcemia.md"
   ]
 }

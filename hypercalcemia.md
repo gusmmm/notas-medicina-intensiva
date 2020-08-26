@@ -1,0 +1,14 @@
+- #CAUSE 
+	- 90% dos casos são causados por 2 entidades:
+		- hiperparatiroidismo primário
+		- neoplasias [[hypercalcemia in malignancy]]
+- #CAUSE 
+	- mediada pela paratiroide
+		- ![[Pasted image 2.png]]
+	- não mediada pela paratiróide
+		- ![[Pasted image 3.png]]
+	- medicação
+		- ![[Pasted image 4.png]]
+	- miscelânia
+		- ![[Pasted image 5.png]]
+- 

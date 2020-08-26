@@ -1,0 +1,6 @@
+- [[PTH-related protein PTHrp]]
+	-  suspeitar se evidência de #malignancy
+		-  geralmente um tumor solido
+		-  se hipercalcemia de inicio recente
+-  #diagnosis de hipercalcemia associada a neoplasia faz-se demonstrnaod uma concentração sérica elevada de PTHrp, embora nao seja necessario quando é obvio
+	-  esta associado a niveis baixos de PTH e 1,25-dihydroxyvitamin D (calcitriol) 
