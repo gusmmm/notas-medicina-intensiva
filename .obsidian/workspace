@@ -10,39 +10,32 @@
           "type": "markdown",
           "state": {
             "file": "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
-        "id": "c9227fe3e94c6585",
-        "type": "split",
-        "children": [
-          {
-            "id": "256cf5ee2bd33639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "casos clinicos.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ca36c488f0e4a98a",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amoxicillin clavulanate.md",
-                "mode": "source"
-              }
-            }
+        "id": "256cf5ee2bd33639",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TSR em hipercalcemia.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "6ceb415ad2e0ca7e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@sramekContinuousVenovenousHemodiafiltration1998.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -83,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5ca98c9c6a686187",
@@ -100,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amoxicillin clavulanate.md"
+                "file": "@sramekContinuousVenovenousHemodiafiltration1998.md"
               }
             }
           },
@@ -119,10 +111,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "amoxicillin clavulanate.md",
+    "@sramekContinuousVenovenousHemodiafiltration1998.md",
+    "TSR em hipercalcemia.md",
+    "@maierHypercalcemiaIntensiveCare2015.md",
     "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
-    "casos clinicos.md",
-    "hypercalcemia in malignancy.md",
-    "hypercalcemia.md"
+    "Untitled.md"
   ]
 }

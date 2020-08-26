@@ -86,3 +86,11 @@ Plano:
  - História de ITU, mas apenas encontro urina II de 13/08. Terá feito 8 dias de amoxiclav que antecederam este internamento
 	 - Suspendo atb. SIRS assumido como secundário a processo neoplásico.
 	 - Peço urina II e Urocultura
+
+# DISCUSSÃO
+- qual o papel da #RRT-TSR no tratamento da #hypercalcemia grave?
+	- quando iniciar?
+	- quando terminar?
+	- que tipo? com hipocoagulação com citrato?
+	- [[TSR em hipercalcemia]]
+- 

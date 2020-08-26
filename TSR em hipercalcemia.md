@@ -1,0 +1,14 @@
+- REF [[@maierHypercalcemiaIntensiveCare2015]]
+	- Hemodialysis. 
+		- In cases of **severe** elevations in calcium with **obtundation**, hemodialysis against a low- or zero-calcium dialysate may be necessary.
+		- There are  **no randomized trials** comparing hemodialysis to other treatments of hypercalcemia, though, in several cases, renal replacement therapies were effective when intravenous fluids and bisphosphonates had failed. 
+		- In one case, continuous veno-venous hemofiltration using citrate as an anticoagulant and calcium chelator was more effective than intermittent hemodialysis.
+			- é um artigo de 1998 [[@sramekContinuousVenovenousHemodiafiltration1998]]
+		- Although hemodialysis and related therapies do appear to be effective, they are only a **temporizing** measure as they do not treat the source of hypercalcemia. Therefore, an etiology must still be determined and appropriate therapy started, if possible and desired. 
+		- Adverse effects of renal replacement therapies include catheter-related infections, air embolism, thromboembolic disease, hypotension, and electrolyte disturbances. 
+		- Dialysis with a low-calcium dialysate is known to induce transient hypotension in up to 35% of patients, probably through rapid decreases in calcium levels,  though this may be reduced by careful manipulation of calcium concentrations in the dialysate.
+	-  #KEY-MESSAGE
+		-  em casos de hipercalcemia severa com alteração da consciência
+		-  hemodiálise com dialisante pobre ou sem cálcio
+		-  é uma medida temporizadora
+-  

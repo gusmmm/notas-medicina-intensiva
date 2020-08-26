@@ -1,0 +1,2 @@
+- Šrámek, V., I. Novák, M. Matějovič, R. Rokyta, M. Nalos, P. Hora, and H. Pittrová. “Continuous Venovenous Hemodiafiltration (CWHDF) with Citrate Anticoagulation in the Treatment of a Patient with Acute Renal Failure, Hypercalcemia, and Thrombocytopenia.” Intensive Care Medicine 24, no. 3 (March 1, 1998): 262–64. https://doi.org/10.1007/s001340050562.
+- 
