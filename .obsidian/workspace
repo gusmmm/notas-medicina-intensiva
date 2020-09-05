@@ -4,45 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "45374f8cef66fd0b",
+        "id": "4306e976e9d7ab18",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
-            "mode": "preview"
+            "file": "journal club de medicina intensiva.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "c9227fe3e94c6585",
-        "type": "split",
-        "children": [
-          {
-            "id": "256cf5ee2bd33639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "casos clinicos.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ca36c488f0e4a98a",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amoxicillin clavulanate.md",
-                "mode": "source"
-              }
-            }
+        "id": "839cc77838b9d5e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@bellaniEpidemiologyPatternsCare2016.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5ca98c9c6a686187",
@@ -100,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amoxicillin clavulanate.md"
+                "file": "journal club de medicina intensiva.md"
               }
             }
           },
@@ -119,10 +100,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "amoxicillin clavulanate.md",
-    "mulher com neoplasia da mama com alteração da consciência e hipercalcemia.md",
-    "casos clinicos.md",
-    "hypercalcemia in malignancy.md",
-    "hypercalcemia.md"
+    "journal club de medicina intensiva.md",
+    "@bellaniEpidemiologyPatternsCare2016.md",
+    "Untitled.md",
+    "@bellaniMissedDelayedDiagnosis2020.md",
+    "ARDS.md"
   ]
 }

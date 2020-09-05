@@ -1,0 +1,22 @@
+- ID
+	- F 50 anos
+- ANTECEDENTES
+	- sem antecedentes de relevo
+- HDA
+	- Por clínica de disfagia para líquidos e sensação de corpo estranho, vem ao SU e faz EDA com excisão de um osso de codorniz do cricofaríngeo. Tem uma pequena hemorragia em toalha com hemostase fácil. Alta para o domicílio com vigilância de sinais de alarme. Retorna ao SU 5 dias depois com clínica de disfagia para líquidos e estridor, faz angioTC e TC com contraste oral cervicais com imagem de um fleimão parafaríngeo/espessamento da gordura do mediastino, sem extravasamento de contraste. É entubada com TOT 7.0 para proteção da VA e internada na UCIP sob Pip/Tazo + Fluconazol (apesar da imagem não sugerir perfuração esofágica, era expectável), dado o risco de mediastinite aguda. 
+- EVOLUÇÃO
+	- Fez-se fibroscopia e videolaringoscopia com evidência de edema supraglótico e das estruturas periglóticas. O teste de fuga qualitativo era positivo. 
+	- A nova TC de controlo tem imagem de coleção organizada no mediastino alto, com indicação para tratamento conservador por Cx torácica. 
+- QUESTAO
+	- Qual a  melhor maneira de assegurar a VA, dado o potencial de internamento prolongado: avançar para traqueostomia era legítimo? Trocar o TOT por um de maior calibre era seguro?
+	- Qual o papel do teste de fuga do cuff [[cuff leak test]]?
+
+- META
+	- #esophageal-perforation 
+	- #gastrointestinal-tract-perforation 
+- IMAGEM
+	- ![[IMG_20200904_190545.jpg]]
+	- ![[IMG_20200904_190248.jpg]]
+- FILE
+	- European Association for Cardio-Thoracic Surgery expert consensus statement on the prevention and management of mediastinitis [[@abu-omarEuropeanAssociationCardioThoracic2017]]
+	- 

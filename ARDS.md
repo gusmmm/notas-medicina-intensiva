@@ -1,0 +1,7 @@
+- a definição de Berlim 2012 [[ARDS berlin definition table]]
+	- 4 itens
+		- Timing - tempo decorrido desde evento causador
+		- Imagem do tórax
+		- Origem do edema
+		- Oxigenação 
+- 

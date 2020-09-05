@@ -1,0 +1,1 @@
+- Force*, The ARDS Definition Task. “Acute Respiratory Distress Syndrome: The Berlin Definition.” JAMA 307, no. 23 (June 20, 2012): 2526–33. https://doi.org/10.1001/jama.2012.5669.

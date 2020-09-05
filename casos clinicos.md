@@ -1,4 +1,8 @@
-- Hipercalcemia grave numa doente com neoplasia da mama [[mulher com neoplasia da mama com alteração da consciência e hipercalcemia]]
+- Hipercalcemia grave numa doente com neoplasia da mama [[F67 neoplasia da mama - alteração da consciência - hipercalcemia]]
 	- #RRT-TSR
 	- #hypercalcemia
-- 
+- Mediastinite por perrfuração do esófago com osso de codorniz [[F50 perfuração do esofago - mediastinite - infecção cervical profunda]]
+	- #mediastinitis
+	- #esophageal-perforation
+	- #gastrointestinal-tract-perforation
+	- 
